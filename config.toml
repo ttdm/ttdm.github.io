@@ -1,4 +1,4 @@
-baseurl = "http://ttdm.github.io"
+baseurl = "https://ttdm.github.io/"
 title = "TTDM"
 theme = "hugo-coder"
 languagecode = "fr"
