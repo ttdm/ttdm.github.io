@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TTDM</title>
-    <link>ttdm.github.io/</link>
+    <link>https://ttdm.github.io/</link>
     <description>Recent content on TTDM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="ttdm.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ttdm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A propos</title>
-      <link>ttdm.github.io/a-propos/</link>
+      <link>https://ttdm.github.io/a-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>ttdm.github.io/a-propos/</guid>
+      <guid>https://ttdm.github.io/a-propos/</guid>
       <description>De formation, je suis ingénieur diplomé en traitement de l&amp;rsquo;image et docteur en robotique.
 En pratique, je me demande quel est l&amp;rsquo;impact de mes actions sur la société, à quoi je sers, et dans quelle direction je micro-pousse la société&amp;hellip; J&amp;rsquo;estime que notre société est trop inégalitaire et que ces inégalités sont basées sur raisons non-fondées (pour quelle(s) raison(s) un travail dit intellectuel devrait-il être plus valorisé qu&amp;rsquo;un travail manuel ?</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>ttdm.github.io/contact/</link>
+      <link>https://ttdm.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>ttdm.github.io/contact/</guid>
+      <guid>https://ttdm.github.io/contact/</guid>
       <description>Pour toute question spécifique à l&amp;rsquo;un de mes projets, le meilleur moyen d&amp;rsquo;obtenir mon attention est d&amp;rsquo;ouvrir une &amp;lsquo;issue&amp;rsquo; sur github.
 Si vous n&#39;êtes pas utilisateur de github ou pour toute autre demande, n&amp;rsquo;hésitez pas à me contacter par mail : thibaut.tezenas(at)protonmail.com</description>
     </item>
     
     <item>
       <title>Projets</title>
-      <link>ttdm.github.io/projets/</link>
+      <link>https://ttdm.github.io/projets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>ttdm.github.io/projets/</guid>
+      <guid>https://ttdm.github.io/projets/</guid>
       <description>[En Phase initiale] AIS4A : Automatique Informatique Setup pour les Associations Début du projet en mars 2020. Le but est de permettre à toute personne qui souhaite gérer une association en se servant d&amp;rsquo;outils informatiques d&amp;rsquo;installer la totalité des outils qui lui sont nécessaires en quelques minutes. L&amp;rsquo;idée principale est de simplifier l&amp;rsquo;utilisation d&amp;rsquo;alternatives à Google/Slack/Trello pour que chaque association puisse redevenir propriétaire de ses données.
 [En BETA] Symphonium : un outil d&amp;rsquo;apprentissage du piano Inspiré de Synthesia (logiciel propriétaire) et de PianoFromAbove (open source mais ne fonctionant plus), il s&amp;rsquo;agit du seul logiciel cross-platform et libre d&amp;rsquo;aide à l&amp;rsquo;apprentissage du piano.</description>
     </item>

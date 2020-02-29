@@ -3,66 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>ttdm.github.io/en/about/</loc>
+    <loc>https://ttdm.github.io/en/about/</loc>
   </url>
   
   <url>
-    <loc>ttdm.github.io/en/categories/</loc>
+    <loc>https://ttdm.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="ttdm.github.io/categories/"
+                href="https://ttdm.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="ttdm.github.io/en/categories/"
+                href="https://ttdm.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>ttdm.github.io/en/contact/</loc>
+    <loc>https://ttdm.github.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="ttdm.github.io/contact/"
+                href="https://ttdm.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="ttdm.github.io/en/contact/"
+                href="https://ttdm.github.io/en/contact/"
                 />
   </url>
   
   <url>
-    <loc>ttdm.github.io/en/projects/</loc>
+    <loc>https://ttdm.github.io/en/projects/</loc>
   </url>
   
   <url>
-    <loc>ttdm.github.io/en/tags/</loc>
+    <loc>https://ttdm.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="ttdm.github.io/tags/"
+                href="https://ttdm.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="ttdm.github.io/en/tags/"
+                href="https://ttdm.github.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>ttdm.github.io/en/</loc>
+    <loc>https://ttdm.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="ttdm.github.io/"
+                href="https://ttdm.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="ttdm.github.io/en/"
+                href="https://ttdm.github.io/en/"
                 />
   </url>
   
