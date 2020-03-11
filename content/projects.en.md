@@ -10,7 +10,7 @@ by using IT tools to install all the tools he will need in a few minutes. The ma
  
 ### [En BETA] Symphonium : A tool to help learning the piano
 Inspired by Synthesia (proprietary software) and PianoFromAbove (open source but deprecated), it is the only 
-open source and cross platform software that helps you learn piano by vizualizing MIDIFiles and comparing thoses
+open source and cross platform software that helps you learn the piano by vizualizing MIDI files and comparing thoses
 files to the notes you play on a MIDI keyboard. I created it as an alternative to Synthesia because 
 *every tool designed to help learning any skill should be free*!
 For more information and while waiting for the dedicated website currently in construction, you can check the project on its 

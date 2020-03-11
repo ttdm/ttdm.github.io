@@ -18,12 +18,12 @@ pygmentscodefencesguesssyntax = true
     info = "Développeur de logiciels libres au service des associations et collectivités"
     description = "Site Perso de TTDM"
     keywords = "portfolio,developer,personal"
-    avatarurl = "images/avatar.png"
+    avatarurl = "images/avatar.jpg"
 
     favicon_16 = "images/favicon.ico"
     favicon_32 = "images/favicon.ico"
 
-    footercontent = "Un pas après l'autre à l'opposé de l'économie des licences."
+    footercontent = ""
 
     colorscheme = "auto"
     # "auto" (use preference set by browser)
@@ -67,7 +67,7 @@ pygmentscodefencesguesssyntax = true
 		[languages.en.params]
 			info = "Libre software developer for associations and communities."
 			description = "TTDM's personnal website"
-            footercontent = "Attempting to walk in a direction where you get paid for actual work..."
+            footercontent = ""
 						
 						
 	[languages.fr]
