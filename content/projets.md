@@ -3,17 +3,16 @@ title = "Projets"
 slug = "projets"
 +++
 
-### [En Phase initiale] AIS4A : Automatique Informatique Setup pour les Associations
-Début du projet en mars 2020. Le but est de permettre à toute personne qui souhaite gérer une association 
-en se servant d'outils informatiques d'installer la totalité des outils qui lui sont nécessaires 
-en quelques minutes. L'idée principale est de simplifier l'utilisation d'alternatives à Google/Slack/Trello 
-pour que chaque association puisse redevenir propriétaire de ses données. 
+### [En Cours] Recensement de solutions libres pour associations et collectivités
+Je souhaiterais qu'il soit possible pour toute personne qui doit gérer une association ou une collectivité d'installer rapidement la totalité des outils numériques qui lui sont nécessaires tout en conservant la propriété sur ses données. Je cherche les solutions existantes, à les promouvoirs et à les améliorer. Pour les associations et si un membre possède quelques connaissances en informatique et une solide connection internet, une [brique internet](https://labriqueinter.net/) semble toute indiquée. Sinon, quelques fournisseurs, tel que [Indie Host](https://indie.host/) proposent aussi des services clés en main.
+Pour les petites collectivités, les options semblent plus réduites et je suis en train de répertorier pour chaque besoin ce qui existe et ce qui manque. 
 
-### [En BETA] Symphonium : un outil d'apprentissage du piano
+
+### Symphonium : un outil d'apprentissage du piano
 Inspiré de Synthesia (logiciel propriétaire) et de PianoFromAbove (open source mais ne fonctionant plus), 
-il s'agit du seul logiciel cross-platform et libre d'aide à l'apprentissage du piano. Je propose un équivalent 
+il s'agit d'un logiciel cross-platform et libre d'aide à l'apprentissage du piano. Je propose un équivalent 
 gratuit à Synthesia parce que *tout apprentissage devrait être gratuit*! 
-Pour plus d'information et en attendant le site dédié en construction, plus d'informations sur le [dépot Github](https://github.com/ttdm/symphonium ).
+Pour plus d'information, vous pouvez consulter le [site dédié](https://symphonium.net/).
 
 ![](/images/pianoApp.png "Symphonium, un logiciel d'aide à l'apprentissage du piano")
 

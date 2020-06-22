@@ -3,18 +3,18 @@ title = "Projects"
 slug = "projects"
 +++
 
-### [Just Starting] AIS4A : Automatic IT Setup for Associations
-Project schedule to begin in march 2020. Its goal is to allow anybody who wants to manage an association 
-by using IT tools to install all the tools he will need in a few minutes. The main idee is to simplify the use
- of alternatives to Google/Slack/Trello/... to allow each association to own its data. 
+### [En Cours] Listing of free solutions for associations and cOllectivites
+I would like to allow every person in charge of an association or a small collectivity to install all the numerical tools he needs. For the associations and if someone has a bit of IT knowledge and a good internet connexion, an [internet cube](https://internetcu.be/) seems to be a great solution. Without any technocal knowledge, there are some structures, such as [Indie Host](https://indie.host/en/) that offer a turnkey solution.
+
+There seems to be a lot less choice for small collecvities and i'm currently focusing on their needs and on identifying where there is a lack of solution. 
  
-### [En BETA] Symphonium : A tool to help learning the piano
+### Symphonium : A tool to help learning the piano
 Inspired by Synthesia (proprietary software) and PianoFromAbove (open source but deprecated), it is the only 
 open source and cross platform software that helps you learn the piano by vizualizing MIDI files and comparing thoses
 files to the notes you play on a MIDI keyboard. I created it as an alternative to Synthesia because 
 *every tool designed to help learning any skill should be free*!
-For more information and while waiting for the dedicated website currently in construction, you can check the project on its 
-[Github repository](https://github.com/ttdm/symphonium "The Symphonium Github Repo"). 
+For more information, you can check the 
+[project website](https://symphonium.net/ "The Symphonium Website"). 
 
 ![](/images/pianoApp.png "A software to help learning piano!")
 
