@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TTDM</title>
+    <link>https://ttdm.github.io/en/</link>
+    <description>Recent content on TTDM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="https://ttdm.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ttdm.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/en/about/</guid>
+      <description>By education, I&amp;rsquo;m ingineer in image and signal processing and PhD in robotics. My picture in the main page comes from my stay in a french laboratory and has been taken while I was an experiment subject for my colleagues.
+I&amp;rsquo;m now a free software developer because I believe this model to be way more ethical than proprietary softwares. I believe most english readers will be fellow developers so I won&amp;rsquo;t spend much time on it but it is, as you probably know, way more difficult to make a living by creating free softwares than by creating proprietary ones.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ttdm.github.io/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/en/contact/</guid>
+      <description>If you have a question on a specific project, the best way to get my attention is to open a github issue in the relevant repository.
+If you are not a github user or for anything else, feel free to contact me at : thibaut.tezenas(at)protonmail.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ttdm.github.io/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/en/projects/</guid>
+      <description>[Just Starting] AIS4A : Automatic IT Setup for Associations Project schedule to begin in march 2020. Its goal is to allow anybody who wants to manage an association by using IT tools to install all the tools he will need in a few minutes. The main idee is to simplify the use of alternatives to Google/Slack/Trello/&amp;hellip; to allow each association to own its data.
+[En BETA] Symphonium : A tool to help learning the piano Inspired by Synthesia (proprietary software) and PianoFromAbove (open source but deprecated), it is the only open source and cross platform software that helps you learn the piano by vizualizing MIDI files and comparing thoses files to the notes you play on a MIDI keyboard.</description>
+    </item>
+    
+  </channel>
+</rss>
