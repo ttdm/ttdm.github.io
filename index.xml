@@ -18,7 +18,7 @@
       <guid>https://ttdm.github.io/a-propos/</guid>
       <description>De formation, je suis ingénieur diplomé en traitement de l&amp;rsquo;image et docteur en robotique. La photo en page d&amp;rsquo;accueil date d&amp;rsquo;ailleurs de mon passage en laboratoire puisqu&amp;rsquo;elle a été prise pendant une des expériences où j&amp;rsquo;ai été sujet pour des collègues !
 Je développe maintenant des logiciels libres parce qu&amp;rsquo;il me semble que ce modèle est beaucoup plus intéressant que le modèle propriétaire :
- l&amp;rsquo;utilisation, l&#39;étude, la modification et la duplication des programmes libres est autorisée et même encouragée !</description>
+ l&amp;rsquo;utilisation, l&amp;rsquo;étude, la modification et la duplication des programmes libres est autorisée et même encouragée !</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ Je développe maintenant des logiciels libres parce qu&amp;rsquo;il me semble qu
       
       <guid>https://ttdm.github.io/contact/</guid>
       <description>Pour toute question spécifique à l&amp;rsquo;un de mes projets, le meilleur moyen d&amp;rsquo;obtenir mon attention est d&amp;rsquo;ouvrir une &amp;lsquo;issue&amp;rsquo; sur github.
-Si vous n&#39;êtes pas utilisateur de github ou pour toute autre demande, n&amp;rsquo;hésitez pas à me contacter par mail : thibaut.tezenas(at)protonmail.com</description>
+Si vous n&amp;rsquo;êtes pas utilisateur de github ou pour toute autre demande, n&amp;rsquo;hésitez pas à me contacter par mail : thibaut.tezenas(at)protonmail.com</description>
     </item>
     
     <item>
@@ -37,8 +37,7 @@ Si vous n&#39;êtes pas utilisateur de github ou pour toute autre demande, n&amp
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ttdm.github.io/projets/</guid>
-      <description>[En Phase initiale] AIS4A : Automatique Informatique Setup pour les Associations Début du projet en mars 2020. Le but est de permettre à toute personne qui souhaite gérer une association en se servant d&amp;rsquo;outils informatiques d&amp;rsquo;installer la totalité des outils qui lui sont nécessaires en quelques minutes. L&amp;rsquo;idée principale est de simplifier l&amp;rsquo;utilisation d&amp;rsquo;alternatives à Google/Slack/Trello pour que chaque association puisse redevenir propriétaire de ses données.
-[En BETA] Symphonium : un outil d&amp;rsquo;apprentissage du piano Inspiré de Synthesia (logiciel propriétaire) et de PianoFromAbove (open source mais ne fonctionant plus), il s&amp;rsquo;agit du seul logiciel cross-platform et libre d&amp;rsquo;aide à l&amp;rsquo;apprentissage du piano.</description>
+      <description>[En Cours] Recensement de solutions libres pour associations et collectivités Je souhaiterais qu&amp;rsquo;il soit possible pour toute personne qui doit gérer une association ou une collectivité d&amp;rsquo;installer rapidement la totalité des outils numériques qui lui sont nécessaires tout en conservant la propriété sur ses données. Je cherche les solutions existantes, à les promouvoirs et à les améliorer. Pour les associations et si un membre possède quelques connaissances en informatique et une solide connection internet, une brique internet semble toute indiquée.</description>
     </item>
     
   </channel>
