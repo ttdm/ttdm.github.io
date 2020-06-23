@@ -1,0 +1,88 @@
+baseurl = "https://ttdm.github.io/"
+title = "TTDM"
+theme = "hugo-coder"
+languagecode = "fr"
+defaultcontentlanguage = "fr"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+#disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Thibaut Tezenas Du Montcel"
+    info = "Développeur de logiciels libres pour associations et collectivités"
+    description = "Site Perso de TTDM"
+    keywords = "portfolio,developer,personal"
+    avatarurl = "images/avatar.jpg"
+
+    favicon_16 = "images/favicon.ico"
+    favicon_32 = "images/favicon.ico"
+
+    footercontent = ""
+
+    colorscheme = "auto"
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+
+    hidecredits = false
+    hidecopyright = true
+
+    rtl = false
+
+    math = false
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/ttdm/"
+
+# Menu links
+[languages]
+    [languages.en]
+        languagename = "English"
+		
+		[languages.en.menu]
+			[[languages.en.menu.main]]
+				name = "Projects"
+				weight = 2
+				url  = "/projects/"
+			[[languages.en.menu.main]]
+				name = "About"
+				weight = 1
+				url = "/about/"
+			[[languages.en.menu.main]]
+				name = "Contact"
+				weight = 3
+				url = "/contact/"
+						
+		[languages.en.params]
+			info = "Libre software developer for associations and communities."
+			description = "TTDM's personnal website"
+            footercontent = ""
+						
+						
+	[languages.fr]
+        languagename = "Français"
+
+        [languages.fr.menu]
+			[[languages.fr.menu.main]]
+				name = "Projets"
+				weight = 2
+				url  = "/projets/"
+			[[languages.fr.menu.main]]
+				name = "A Propos"
+				weight = 1
+				url = "/a-propos/"
+			[[languages.fr.menu.main]]
+				name = "Contact"
+				weight = 3
+				url = "/contact/"
