@@ -11,6 +11,15 @@
     
     
     <item>
+      <title></title>
+      <link>https://ttdm.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/cv/</guid>
+      <description>Download CV  </description>
+    </item>
+    
+    <item>
       <title>A propos</title>
       <link>https://ttdm.github.io/a-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,7 +46,7 @@ Si vous n&amp;rsquo;êtes pas utilisateur de github ou pour toute autre demande,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ttdm.github.io/projets/</guid>
-      <description>[En Cours] Recensement de solutions libres pour associations et collectivités Je souhaiterais qu&amp;rsquo;il soit possible pour toute personne qui doit gérer une association ou une collectivité d&amp;rsquo;installer rapidement la totalité des outils numériques qui lui sont nécessaires tout en conservant la propriété sur ses données. Je cherche les solutions existantes, à les promouvoirs et à les améliorer. Pour les associations et si un membre possède quelques connaissances en informatique et une solide connection internet, une brique internet semble toute indiquée.</description>
+      <description>Demarches-villages.fr : une solution de démarches en ligne pour les petites communes N&amp;rsquo;ayant trouvé aucune solution simple de démarches en ligne pour les petites communes, j&amp;rsquo;ai créé demarches-villages.fr. Lors de sa conception l&amp;rsquo;accent a été mis sur la simplicité d&amp;rsquo;utilisation pour qu&amp;rsquo;il suffise de quelques minutes à une commune pour s&amp;rsquo;inscrire sur la plateforme. J&amp;rsquo;espère inciter ainsi un maximum de communes à proposer ce service à leurs administrés. Comme pour le reste de mes projets, son utilisation est gratuite et son code source est publique.</description>
     </item>
     
   </channel>

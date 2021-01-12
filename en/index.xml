@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ttdm.github.io/en/about/</guid>
-      <description>By education, I&amp;rsquo;m ingineer in image and signal processing and PhD in robotics. My picture in the main page comes from my stay in a french laboratory and has been taken while I was an experiment subject for my colleagues.
+      <description>By training, I&amp;rsquo;m ingineer in image and signal processing and PhD in robotics.
 I&amp;rsquo;m now a free software developer because I believe this model to be way more ethical than proprietary softwares. I believe most english readers will be fellow developers so I won&amp;rsquo;t spend much time on it but it is, as you probably know, way more difficult to make a living by creating free softwares than by creating proprietary ones.</description>
     </item>
     
@@ -36,7 +36,7 @@ If you are not a github user or for anything else, feel free to contact me at : 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ttdm.github.io/en/projects/</guid>
-      <description>[En Cours] Listing of free solutions for associations and cOllectivites I would like to allow every person in charge of an association or a small collectivity to install all the numerical tools he needs. For the associations and if someone has a bit of IT knowledge and a good internet connexion, an internet cube seems to be a great solution. Without any technocal knowledge, there are some structures, such as Indie Host that offer a turnkey solution.</description>
+      <description>Demarches-villages.fr : an online formalities for small municipalities I couldn&amp;rsquo;t find a simple online formalities solution dedicated to the small municipalities so I created a service : demarches-villages.fr. During the conception, the emphasis was on the simplicity. One of the main goal was to limit as much as possible the inscription duration for the cities. By doing so, I hopefully encourage a maximum of cities that currently doesn&amp;rsquo;t use an online formalities solution due to their complexity to offer this service to their constituents.</description>
     </item>
     
   </channel>
