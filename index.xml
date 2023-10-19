@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TTDM</title>
+    <link>https://ttdm.github.io/</link>
+    <description>Recent content on TTDM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="https://ttdm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A propos</title>
+      <link>https://ttdm.github.io/a-propos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/a-propos/</guid>
+      <description>De formation, je suis ingénieur diplomé en traitement de l&amp;rsquo;image et docteur en robotique. J&amp;rsquo;ai ensuite travaillé comme ingénieur de recherche et chef de projet informatique dans le monde dans la recherche et dans une start-up coopérative.
+Je développe des logiciels libres parce qu&amp;rsquo;il me semble que ce modèle est beaucoup plus intéressant que le modèle propriétaire :
+ l&amp;rsquo;utilisation, l&#39;étude, la modification et la duplication des programmes libres est autorisée et même encouragée !</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ttdm.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/contact/</guid>
+      <description>Pour toute question spécifique à l&amp;rsquo;un de mes projets, le meilleur moyen d&amp;rsquo;obtenir mon attention est d&amp;rsquo;ouvrir une &amp;lsquo;issue&amp;rsquo; sur github.
+Si vous n&#39;êtes pas utilisateur de github ou pour toute autre demande, n&amp;rsquo;hésitez pas à me contacter par mail : thibaut.tezenas(at)protonmail.com</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://ttdm.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/cv/</guid>
+      <description> shree  Portfolio pro shree  </description>
+    </item>
+    
+    <item>
+      <title>Projets libres</title>
+      <link>https://ttdm.github.io/projets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/projets/</guid>
+      <description>Ethique et Thunes : une appli web pour une coopérative en finance éthique Développée lors d&amp;rsquo;une tentative de création de coopérative en gestion de patrimoine éthique portée par Denis Dupré et soutenue par l&amp;rsquo;INRIA, cette application basée sur React.js devait permettre à chacun de placer en toute autonomie son patrimoine en respectant ses principes éthiques. Finalement, la coopérative n&amp;rsquo;a pas vu le jour mais les principes développés sont maintenant portés par l&amp;rsquo;association éthique et thunes.</description>
+    </item>
+    
+  </channel>
+</rss>

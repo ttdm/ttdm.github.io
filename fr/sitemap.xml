@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ttdm.github.io/a-propos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ttdm.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ttdm.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ttdm.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ttdm.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ttdm.github.io/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ttdm.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ttdm.github.io/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ttdm.github.io/projets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ttdm.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ttdm.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ttdm.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ttdm.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ttdm.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ttdm.github.io/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TTDM</title>
+    <link>https://ttdm.github.io/en/</link>
+    <description>Recent content on TTDM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="https://ttdm.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ttdm.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/en/about/</guid>
+      <description>By education, I&amp;rsquo;m engineer in image and signal processing and PhD in robotics. I then worked as a research engineer and IT project manager in multiple labs and in a start-up cooperative.
+I&amp;rsquo;m a free software developer because I believe this model to be way more ethical than proprietary softwares. I believe most english readers will be fellow developers so I won&amp;rsquo;t spend much time on it but it is, as you probably know, way more difficult to make a living by creating free softwares than by creating proprietary ones.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ttdm.github.io/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/en/contact/</guid>
+      <description>If you have a question on a specific project, the best way to get my attention is to open a github issue in the relevant repository.
+If you are not a github user or for anything else, feel free to contact me at : thibaut.tezenas(at)protonmail.com</description>
+    </item>
+    
+    <item>
+      <title>Open source projects</title>
+      <link>https://ttdm.github.io/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttdm.github.io/en/projects/</guid>
+      <description>Ethique et Thunes : a web app for an ethical finance cooperative Developed during an attempt to create a cooperative for ethical wealth management led by Denis Dupré and supported by INRIA, the french research institute of IT, this application, based on React.js was intended to allow individuals to autonomously manage their wealth while adhering to their ethical principles. Ultimately, the cooperative never materialized, but the principles developed are now carried forward by the éthique et thunes (fr) association.</description>
+    </item>
+    
+  </channel>
+</rss>
