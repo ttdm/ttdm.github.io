@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TTDM</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ttdm.github.io/</link>
     <description>Recent content on TTDM</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ttdm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/a-propos/</link>
+      <link>https://ttdm.github.io/a-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/a-propos/</guid>
-      <description>&lt;h2 id=&#34;mes-engagements&#34;&gt;&#xA;  Mes engagements&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#mes-engagements&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Je suis quelqu&amp;rsquo;un de profondément attaché à la notion d’égalité.&lt;/p&gt;&#xA;&lt;p&gt;C’est une valeur que je défends avec conviction, car elle représente pour moi le cœur de ce qui fait société. par opposition aux aléas de la nature. Là où la nature distribue les opportunités de manière hasardeuse, promouvoir l’égalité permet de dépasser ces inégalités de naissance et d’offrir à chacun la possibilité de s’épanouir pleinement.&lt;/p&gt;</description>
+      <guid>https://ttdm.github.io/a-propos/</guid>
+      <description>&lt;h2 id=&#34;mes-engagements&#34;&gt;&#xA;  Mes engagements&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#mes-engagements&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Je suis quelqu&amp;rsquo;un de profondément attaché à la notion d’égalité.&lt;/p&gt;&#xA;&lt;p&gt;C’est une valeur que je défends avec conviction, car elle représente pour moi le cœur de ce qui fait société par opposition aux aléas de la nature. Là où la nature distribue les opportunités de manière hasardeuse, promouvoir l’égalité permet de dépasser ces inégalités de naissance et d’offrir à chacun la possibilité de s’épanouir pleinement.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://ttdm.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://ttdm.github.io/contact/</guid>
       <description>&lt;p&gt;Pour toute question spécifique à l&amp;rsquo;un de mes projets, le meilleur moyen d&amp;rsquo;obtenir mon attention est d&amp;rsquo;ouvrir une &amp;lsquo;issue&amp;rsquo; sur github.&lt;/p&gt;&#xA;&lt;p&gt;Si vous n&amp;rsquo;êtes pas utilisateur de github ou pour toute autre demande, n&amp;rsquo;hésitez pas à me contacter par mail : thibaut.tezenas(at)protonmail.com&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://ttdm.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
-      <description>&lt;h2 id=&#34;ce-que-je-peux-apporter-à-votre-projet&#34;&gt;&#xA;  Ce que je peux apporter à votre projet&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ce-que-je-peux-apporter-%c3%a0-votre-projet&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Développement backend performant et fiable (Python, Go, etc.)&lt;/li&gt;&#xA;&lt;li&gt;Expertise en gestion de données et API sécurisées&lt;/li&gt;&#xA;&lt;li&gt;Collaboration étroite pour transformer vos idées en solutions concrètes&lt;/li&gt;&#xA;&lt;li&gt;Intégration des enjeux RSE dans vos projets technologiques&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cv&#34;&gt;&#xA;  CV&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#cv&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&#xA;&#xA;&lt;object data=&#34;/CV.pdf&#34; type=&#34;application/pdf&#34; title=&#34;mon_CV&#34; width=&#34;1000&#34; height=&#34;720&#34;&gt;&#xA;&lt;a href=&#34;http://localhost:1313/CV.pdf&#34;&gt;shree&lt;/a&gt;&#xA;&lt;/object&gt;&#xA;&#xA;&lt;h2 id=&#34;portfolio-pro&#34;&gt;&#xA;  Portfolio pro&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#portfolio-pro&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&#xA;&#xA;&lt;object data=&#34;/portfolio_pro_TTDM.pdf&#34; type=&#34;application/pdf&#34; title=&#34;portfolio_TTDM&#34; width=&#34;1000&#34; height=&#34;720&#34;&gt;&#xA;&lt;a href=&#34;http://localhost:1313/portfolio_pro_TTDM.pdf&#34;&gt;shree&lt;/a&gt;&#xA;&lt;/object&gt;</description>
+      <guid>https://ttdm.github.io/cv/</guid>
+      <description>&lt;h2 id=&#34;ce-que-je-peux-apporter-à-votre-projet&#34;&gt;&#xA;  Ce que je peux apporter à votre projet&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ce-que-je-peux-apporter-%c3%a0-votre-projet&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Développement backend performant et fiable (Python, Go, etc.)&lt;/li&gt;&#xA;&lt;li&gt;Expertise en gestion de données et API sécurisées&lt;/li&gt;&#xA;&lt;li&gt;Collaboration étroite pour transformer vos idées en solutions concrètes&lt;/li&gt;&#xA;&lt;li&gt;Intégration des enjeux RSE dans vos projets technologiques&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cv&#34;&gt;&#xA;  CV&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#cv&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&#xA;&#xA;&lt;object data=&#34;/CV.pdf&#34; type=&#34;application/pdf&#34; title=&#34;mon_CV&#34; width=&#34;1000&#34; height=&#34;720&#34;&gt;&#xA;&lt;a href=&#34;https://ttdm.github.io/CV.pdf&#34;&gt;shree&lt;/a&gt;&#xA;&lt;/object&gt;&#xA;&#xA;&lt;h2 id=&#34;portfolio-pro&#34;&gt;&#xA;  Portfolio pro&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#portfolio-pro&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&#xA;&#xA;&lt;object data=&#34;/portfolio_pro_TTDM.pdf&#34; type=&#34;application/pdf&#34; title=&#34;portfolio_TTDM&#34; width=&#34;1000&#34; height=&#34;720&#34;&gt;&#xA;&lt;a href=&#34;https://ttdm.github.io/portfolio_pro_TTDM.pdf&#34;&gt;shree&lt;/a&gt;&#xA;&lt;/object&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/projets/</link>
+      <link>https://ttdm.github.io/projets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projets/</guid>
+      <guid>https://ttdm.github.io/projets/</guid>
       <description>&lt;h3 id=&#34;transition-écologique-des-entreprises--une-mise-en-avant-des-aides-de-létat-pour-favoriser-les-actions-de-transition-écologique-dans-les-pme&#34;&gt;&#xA;  Transition écologique des entreprises : une mise en avant des aides de l&amp;rsquo;état pour favoriser les actions de transition écologique dans les PME&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#transition-%c3%a9cologique-des-entreprises--une-mise-en-avant-des-aides-de-l%c3%a9tat-pour-favoriser-les-actions-de-transition-%c3%a9cologique-dans-les-pme&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Il s&amp;rsquo;agit d&amp;rsquo;un projet lancé au sein de l&amp;rsquo;écosystème &lt;a href=&#34;https://beta.gouv.fr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;beta-gouv&lt;/a&gt; en 2023. Je l&amp;rsquo;ai rejoint en temps que développeur freelance au printemps 2024 et suis principalement responsable de toute la partie backend et gestion des données du projet. L&amp;rsquo;objectif du projet est d&amp;rsquo;accompagner les PME dans leur transition écologique. En mettant en avant les aides de l&amp;rsquo;État, nous créons un point d&amp;rsquo;entrée attractif qui nous permet de leur proposer des solutions concrètes pour réduire leur empreinte environnementale.&lt;/p&gt;</description>
     </item>
   </channel>

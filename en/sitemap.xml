@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://ttdm.github.io/en/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://ttdm.github.io/en/projects/</loc>
+  </url><url>
+    <loc>https://ttdm.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/categories/"
+                href="https://ttdm.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://ttdm.github.io/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
+    <loc>https://ttdm.github.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/contact/"
+                href="https://ttdm.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/contact/"
+                href="https://ttdm.github.io/en/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://ttdm.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/tags/"
+                href="https://ttdm.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://ttdm.github.io/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://ttdm.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/"
+                href="https://ttdm.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://ttdm.github.io/en/"
                 />
   </url>
 </urlset>

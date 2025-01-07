@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TTDM</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://ttdm.github.io/en/</link>
     <description>Recent content on TTDM</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ttdm.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/en/about/</link>
+      <title></title>
+      <link>https://ttdm.github.io/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
-      <description>&lt;p&gt;By education, I&amp;rsquo;m engineer in image and signal processing and PhD in robotics.&#xA;I then worked as a research engineer and IT project manager in multiple labs and in a start-up cooperative.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a free software developer because I believe this model to be way more ethical than proprietary softwares.&#xA;I believe most english readers will be fellow developers so I won&amp;rsquo;t spend much time on it but it is, as you probably know, way more difficult to make a living by creating free softwares than by creating proprietary ones.&lt;/p&gt;</description>
+      <guid>https://ttdm.github.io/en/about/</guid>
+      <description>&lt;h2 id=&#34;my-principles&#34;&gt;&#xA;  My principles&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#my-principles&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I care deeply about equality.&lt;/p&gt;&#xA;&lt;p&gt;This is a value I defend with conviction because I believe it’s the foundation of a strong society, something that stands apart from the randomness of nature. Nature distributes opportunities unevenly, but promoting equality helps us level the playing field and give everyone a fair chance to thrive.&lt;/p&gt;&#xA;&lt;p&gt;I also believe equality is essential for a peaceful society. When inequality is too great, it leads to problems like violence, crime, and poverty. By working toward more fairness, we can ease these issues and create a better environment for everyone.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ttdm.github.io/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ttdm.github.io/en/projects/</guid>
+      <description>&lt;h3 id=&#34;transition-ecologique-des-entreprise--highlighting-state-support-to-encourage-ecological-actions-in-smes&#34;&gt;&#xA;  Transition Ecologique des Entreprise : Highlighting state support to encourage ecological actions in SMEs&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#transition-ecologique-des-entreprise--highlighting-state-support-to-encourage-ecological-actions-in-smes&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;This project was launched within the beta-gouv ecosystem in 2023. I joined as a freelance developer in the spring of 2024, primarily taking charge of the backend and data management aspects of the project.&lt;/p&gt;&#xA;&lt;p&gt;The goal of the initiative is to support small and medium-sized enterprises (SMEs) in their ecological transition. By showcasing the financial and logistical support provided by the State, we create an appealing entry point that allows us to offer these businesses practical solutions for reducing their environmental impact.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/en/contact/</link>
+      <link>https://ttdm.github.io/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/contact/</guid>
+      <guid>https://ttdm.github.io/en/contact/</guid>
       <description>&lt;p&gt;If you have a question on a specific project, the best way to get my attention is to open a github issue in the relevant repository.&lt;/p&gt;&#xA;&lt;p&gt;If you are not a github user or for anything else, feel free to contact me at : thibaut.tezenas(at)protonmail.com&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Open source projects</title>
-      <link>http://localhost:1313/en/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/</guid>
-      <description>&lt;h3 id=&#34;ethique-et-thunes--a-web-app-for-an-ethical-finance-cooperative&#34;&gt;&#xA;  Ethique et Thunes : a web app for an ethical finance cooperative&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ethique-et-thunes--a-web-app-for-an-ethical-finance-cooperative&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Developed during an attempt to create a cooperative for ethical wealth management led by Denis Dupré and supported by INRIA, the french research institute of IT, this application, based on React.js was intended to allow individuals to autonomously manage their wealth while adhering to their ethical principles. Ultimately, the cooperative never materialized, but the principles developed are now carried forward by the &lt;a href=&#34;https://ethiqueetthunes.fr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;éthique et thunes (fr)&lt;/a&gt; association.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
